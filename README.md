@@ -1,1 +1,1 @@
-<img src="./dune.jpeg" />
+<img src="./synthwave-red.jpg" />
