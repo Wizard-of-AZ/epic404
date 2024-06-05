@@ -1,1 +1,1 @@
-<img src="./fourpeaks.jpeg" />
+<img src="./wulfenite.jpeg" />
