@@ -1,1 +1,1 @@
-<img src="./white-geeble.jpeg" />
+<img src="./white-geeble.png" />
