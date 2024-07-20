@@ -1,1 +1,1 @@
-<img src="./wulfenite.jpeg" />
+<img src="./white-geeble.jpeg" />
